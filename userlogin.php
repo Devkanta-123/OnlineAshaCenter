@@ -138,7 +138,6 @@
 											name="password" placeholder="* * * * * * * * *">
 									</div>
 								</div>
-
 								<!-- Reset Password Link -->
 								<div class="col-md-12">
 									<div class="reset-password-link">
@@ -146,29 +145,17 @@
 												password?</a></p>
 									</div>
 								</div>
-
 								<!-- Form Submit Button -->
 								<div class="col-md-12">
 									<button type="submit" class="btn btn--theme hover--theme submit">Log In</button>
 								</div>
-
 							</form> <!-- END LOGIN FORM -->
-
-
 						</div>
 					</div>
 				</div> <!-- End row -->
 			</div> <!-- End container -->
 		</div> <!-- END LOGIN PAGE -->
-
-
-
-
 	</div> <!-- END PAGE CONTENT -->
-
-
-
-
 	<!-- EXTERNAL SCRIPTS
 		============================================= -->
 	<script src="js/jquery-3.7.0.min.js"></script>
@@ -190,7 +177,6 @@
 	<script src="js/changer.js"></script>
 	<script defer src="js/styleswitch.js"></script>
 	<script>
-
 		$(document).ready(function () {
 			$('#userloginform').submit(function (e) {
 				e.preventDefault();
